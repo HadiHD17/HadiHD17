@@ -6,6 +6,22 @@
 <h3 align="center">A Passionate Full Stack Software Engineer From Lebanon</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hadihd17&label=Profile%20views&color=0e75b6&style=flat" alt="hadihd17" /> </p>
+<hr/>
+
+Sure! Here's a polished and professional "About Me" section with a similar tone and structure:
+
+---
+
+### About Me
+
+<p>  
+I'm a dedicated Full Stack Developer with a passion for creating seamless, high-performing web applications. With experience across both frontend and backend technologies, I thrive on building complete solutions that are intuitive, efficient, and scalable.  
+</p>  
+<p>  
+Driven by curiosity and a love for problem-solving, I enjoy bringing ideas to life through clean code and thoughtful design. Whether developing interactive user interfaces or architecting powerful backend systems, I’m always eager to take on new challenges and contribute to meaningful, real-world projects.  
+</p>
+
+
 
 
 - 🌱 I’m currently learning **React, Laravel, Angular, Node.js**
@@ -27,5 +43,9 @@
 </div>
 
 ![Pac-Man Contribution Graph (Dark)](https://raw.githubusercontent.com/HadiHD17/HadiHD17/output/pacman-contribution-graph-dark.svg)
+
+### 🏋️ Personal Interests
+- 💪 **Gym Enthusiast** – Protein Taker, Muscle Gainer.
+- ⚽ **Sports player** – I enjoy playing/coaching **football**.
 
 ###
