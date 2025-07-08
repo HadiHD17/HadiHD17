@@ -8,10 +8,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hadihd17&label=Profile%20views&color=0e75b6&style=flat" alt="hadihd17" /> </p>
 <hr/>
 
-Sure! Here's a polished and professional "About Me" section with a similar tone and structure:
-
----
-
 ### About Me
 
 <p>  
